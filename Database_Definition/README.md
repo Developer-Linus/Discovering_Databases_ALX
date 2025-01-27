@@ -50,5 +50,5 @@ Exercise 1: Design a simple database schema for a library management system, inc
 Exercise 2: Define relationships between the tables you just created. Clearly identify primary keys, foreign keys and relationships (such as one-to-one, one-to-many … etc)
 
 ## Additional Resources
-[An Introduction to Databases](https://intranet.alxswe.com/rltoken/r10i1sc4RFwUWp4eUvT2cA)
+[An Introduction to Databases](https://intranet.alxswe.com/rltoken/r10i1sc4RFwUWp4eUvT2cA) <br>
 [Introduction to Databases](https://intranet.alxswe.com/rltoken/QMDxHsS57Bz3VxqH5MCdcQ)
