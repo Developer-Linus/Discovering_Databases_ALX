@@ -46,7 +46,8 @@ This section aims provide a comprehensive understanding of what a database is, i
 - Popular examples of DBMS include MySQL, PostgreSQL, Oracle, Microsoft SQL Server, and MongoDB.
 
 ## Practice Exercises
-Exercise 1: Design a simple database schema for a library management system, including tables for books, authors, and borrowers
+Exercise 1: Design a simple database schema for a library management system, including tables for books, authors, and borrowers<br>
+
 Exercise 2: Define relationships between the tables you just created. Clearly identify primary keys, foreign keys and relationships (such as one-to-one, one-to-many … etc)
 
 ## Additional Resources
